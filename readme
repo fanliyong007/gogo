@@ -470,8 +470,8 @@ Management Interface Default Router: 192.168.1.1
 Create Management DHCP Scope? [yes][NO]: NO
 Employee Network Name (SSID)?: CHINA
 Employee Network Security? [PSK][enterprise]: PSK
-Employee PSK Passphrase (8-63 characters)?: ********
-Re-enter Employee PSK Passphrase: ********
+Employee PSK Passphrase (8-63 characters)?: 123456
+Re-enter Employee PSK Passphrase: 123456
 Enable RF Parameter Optimization? [YES][no]: no
 
 Configuration correct? If yes, system will save it and reset. [yes][NO]: yes
